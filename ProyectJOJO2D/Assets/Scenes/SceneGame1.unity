@@ -6541,6 +6541,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: TextAppleGreen
       objectReference: {fileID: 0}
+    - target: {fileID: 4515713977000183712, guid: 10875310e4242fc49a1e86a0cf2f4121, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 2077.821
+      objectReference: {fileID: 0}
+    - target: {fileID: 4515713977000183712, guid: 10875310e4242fc49a1e86a0cf2f4121, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 1072.29
+      objectReference: {fileID: 0}
     - target: {fileID: 5714212756093741601, guid: 10875310e4242fc49a1e86a0cf2f4121, type: 3}
       propertyPath: m_Name
       value: Canvas
