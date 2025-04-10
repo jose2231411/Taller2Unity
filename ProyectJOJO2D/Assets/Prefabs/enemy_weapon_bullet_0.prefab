@@ -15,12 +15,26 @@ GameObject:
   - component: {fileID: 3965747516950881750}
   m_Layer: 0
   m_Name: enemy_weapon_bullet_0
+<<<<<<< Updated upstream
   m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+<<<<<<<< Updated upstream:ProyectJOJO2D/Assets/Prefabs/enemy_weapon_bullet_0.prefab
+  m_IsActive: 1
+--- !u!4 &6255187323775567190
+========
+  m_IsActive: 0
+--- !u!4 &4891196900440326561
+>>>>>>>> Stashed changes:ProyectJOJO2D/Assets/Prefabs/ObjectsRecollects.prefab
+=======
+  m_TagString: Bullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &6255187323775567190
+>>>>>>> Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -76,7 +90,11 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+<<<<<<< Updated upstream
   m_Sprite: {fileID: -146658870, guid: 9cdc733c85f763144862a8326b1f385d, type: 3}
+=======
+  m_Sprite: {fileID: 1814106017, guid: 9cdc733c85f763144862a8326b1f385d, type: 3}
+>>>>>>> Stashed changes
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -145,6 +163,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bullspeed: 0.85
+<<<<<<< Updated upstream
+=======
+  damage: 1
+>>>>>>> Stashed changes
 --- !u!95 &3965747516950881750
 Animator:
   serializedVersion: 5

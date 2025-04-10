@@ -45,6 +45,10 @@ GameObject:
   - component: {fileID: 2013495918646950865}
   - component: {fileID: 3371044577002182101}
   - component: {fileID: 2594513208335145269}
+<<<<<<< Updated upstream
+=======
+  - component: {fileID: -8222892855996926470}
+>>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Grunt
   m_TagString: Untagged
@@ -111,7 +115,11 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+<<<<<<< Updated upstream
   m_Sprite: {fileID: 1492409849, guid: e1b8d2cfa30a11540b8fc402ab0ea074, type: 3}
+=======
+  m_Sprite: {fileID: -565687762, guid: e1b8d2cfa30a11540b8fc402ab0ea074, type: 3}
+>>>>>>> Stashed changes
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -232,6 +240,23 @@ CapsuleCollider2D:
   m_Offset: {x: -0.021692753, y: 0}
   m_Size: {x: 0.09198189, y: 0.19}
   m_Direction: 0
+<<<<<<< Updated upstream
+=======
+--- !u!114 &-8222892855996926470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7082956004130334733}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 177f0ac38473ed143b5f175438197bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 20
+  maxhealth: 20
+>>>>>>> Stashed changes
 --- !u!1 &7599428740073215633
 GameObject:
   m_ObjectHideFlags: 0

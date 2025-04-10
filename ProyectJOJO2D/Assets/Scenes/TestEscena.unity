@@ -401,6 +401,38 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &113975911
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 113975912}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &113975912
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 113975911}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.415, y: 0.693, z: -9.888405}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 179870182}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &114693604
 GameObject:
   m_ObjectHideFlags: 0
@@ -425,12 +457,48 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 114693604}
   serializedVersion: 2
+<<<<<<< Updated upstream:ProyectJOJO2D/Assets/Scenes/SceneGame1.unity
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -6.17, y: 0.86, z: 0}
+=======
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.57, y: -0.1, z: 0}
+>>>>>>> Stashed changes:ProyectJOJO2D/Assets/Scenes/TestEscena.unity
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &179870181
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 179870182}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &179870182
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 179870181}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.791, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 113975912}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &484308857
 GameObject:
@@ -6145,6 +6213,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &991756483 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2333809387766794694, guid: 7960cca40f9c2b246b762298c2451254, type: 3}
+  m_PrefabInstance: {fileID: 5710944771950862345}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1156704711
 GameObject:
   m_ObjectHideFlags: 0
@@ -6169,8 +6242,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1156704711}
   serializedVersion: 2
+<<<<<<< Updated upstream:ProyectJOJO2D/Assets/Scenes/SceneGame1.unity
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -4.05, y: 0.68, z: 0}
+=======
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.4879994, y: -0.71, z: 0}
+>>>>>>> Stashed changes:ProyectJOJO2D/Assets/Scenes/TestEscena.unity
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6200,8 +6278,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1280109153}
   serializedVersion: 2
+<<<<<<< Updated upstream:ProyectJOJO2D/Assets/Scenes/SceneGame1.unity
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -5.455, y: 0.68, z: 0}
+=======
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.0829997, y: -0.64, z: 0}
+>>>>>>> Stashed changes:ProyectJOJO2D/Assets/Scenes/TestEscena.unity
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6270,6 +6353,137 @@ Transform:
   m_Children: []
   m_Father: {fileID: 487799919}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1305312786 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6170476494640851326, guid: e9782fcb27367934ab4e54c31f50cd9e, type: 3}
+  m_PrefabInstance: {fileID: 5575701277423957018}
+  m_PrefabAsset: {fileID: 0}
+--- !u!61 &1305312787
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1305312786}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.82, y: 2.56}
+    newSize: {x: 1.82, y: 2.56}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.82, y: 2.56}
+  m_EdgeRadius: 0
+--- !u!1001 &1589594381
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2594513208335145269, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
+      propertyPath: m_Size.y
+      value: 0.18295869
+      objectReference: {fileID: 0}
+    - target: {fileID: 2594513208335145269, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.0035206527
+      objectReference: {fileID: 0}
+    - target: {fileID: 4287661778706473225, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
+      propertyPath: health
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 4287661778706473225, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
+      propertyPath: patrolPoints.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4287661778706473225, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
+      propertyPath: patrolPoints.Array.data[0]
+      value: 
+      objectReference: {fileID: 113975912}
+    - target: {fileID: 4287661778706473225, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
+      propertyPath: patrolPoints.Array.data[1]
+      value: 
+      objectReference: {fileID: 179870182}
+    - target: {fileID: 4845262731817862639, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.499
+      objectReference: {fileID: 0}
+    - target: {fileID: 4845262731817862639, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.756
+      objectReference: {fileID: 0}
+    - target: {fileID: 4845262731817862639, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4845262731817862639, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4845262731817862639, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4845262731817862639, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4845262731817862639, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4845262731817862639, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4845262731817862639, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4845262731817862639, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7082956004130334733, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
+      propertyPath: m_Name
+      value: Grunt
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
 --- !u!1 &1647926736
 GameObject:
   m_ObjectHideFlags: 0
@@ -6294,8 +6508,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1647926736}
   serializedVersion: 2
+<<<<<<< Updated upstream:ProyectJOJO2D/Assets/Scenes/SceneGame1.unity
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -4.608, y: 0.68, z: 0}
+=======
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.9299998, y: -0.67, z: 0}
+>>>>>>> Stashed changes:ProyectJOJO2D/Assets/Scenes/TestEscena.unity
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6326,7 +6545,7 @@ Transform:
   m_GameObject: {fileID: 1681127909}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.5379996, y: 0.68, z: 0}
+  m_LocalPosition: {x: -6.5379996, y: 0.85, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6410,6 +6629,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2029063597}
   - component: {fileID: 2029063598}
+  - component: {fileID: 2029063599}
   m_Layer: 0
   m_Name: -----GameController-----
   m_TagString: Untagged
@@ -6445,30 +6665,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   txtGreenApple: {fileID: 72655038}
---- !u!1 &2049058885
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2049058887}
-  - component: {fileID: 2049058886}
-  m_Layer: 0
-  m_Name: AppleController
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &2049058886
+  gkEY: {fileID: 991756483}
+--- !u!114 &2029063599
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2049058885}
+  m_GameObject: {fileID: 2029063596}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 897d9dcee0b9d4f4e80b0cb444847c79, type: 3}
@@ -6485,21 +6689,6 @@ MonoBehaviour:
   Manzanas:
   - {fileID: 2548750916097486379, guid: 2ec06b531340a924a8d9a42f199bcd67, type: 3}
   cantidadManzanas: 5
---- !u!4 &2049058887
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2049058885}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.757, y: 0.695, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2055449056
 GameObject:
   m_ObjectHideFlags: 0
@@ -6524,8 +6713,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2055449056}
   serializedVersion: 2
+<<<<<<< Updated upstream:ProyectJOJO2D/Assets/Scenes/SceneGame1.unity
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -8.35, y: 0.75, z: 0}
+=======
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.61, y: 0.06999999, z: 0}
+>>>>>>> Stashed changes:ProyectJOJO2D/Assets/Scenes/TestEscena.unity
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6539,6 +6733,33 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< Updated upstream:ProyectJOJO2D/Assets/Scenes/SceneGame1.unity
+=======
+    - target: {fileID: 2126632795056328488, guid: 1b3d6ca30c70c494ba0ab076dd1e95d6, type: 3}
+      propertyPath: cooldown
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2299237569704472166, guid: 1b3d6ca30c70c494ba0ab076dd1e95d6, type: 3}
+      propertyPath: JumpForce
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 2299237569704472166, guid: 1b3d6ca30c70c494ba0ab076dd1e95d6, type: 3}
+      propertyPath: prefabGhost
+      value: 
+      objectReference: {fileID: 4930662242293404293, guid: 7e9e6461220feb946a9745000a484a95, type: 3}
+    - target: {fileID: 2732937281091213416, guid: 1b3d6ca30c70c494ba0ab076dd1e95d6, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2732937281091213416, guid: 1b3d6ca30c70c494ba0ab076dd1e95d6, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2732937281091213416, guid: 1b3d6ca30c70c494ba0ab076dd1e95d6, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+>>>>>>> Stashed changes:ProyectJOJO2D/Assets/Scenes/TestEscena.unity
     - target: {fileID: 2732937281091213416, guid: 1b3d6ca30c70c494ba0ab076dd1e95d6, type: 3}
       propertyPath: m_LocalPosition.x
       value: -8.681
@@ -6579,6 +6800,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< Updated upstream:ProyectJOJO2D/Assets/Scenes/SceneGame1.unity
+=======
+    - target: {fileID: 2732937281091213416, guid: 1b3d6ca30c70c494ba0ab076dd1e95d6, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3443729065630835346, guid: 1b3d6ca30c70c494ba0ab076dd1e95d6, type: 3}
+      propertyPath: cooldown
+      value: 1.6
+      objectReference: {fileID: 0}
+>>>>>>> Stashed changes:ProyectJOJO2D/Assets/Scenes/TestEscena.unity
     - target: {fileID: 5432604955291685910, guid: 1b3d6ca30c70c494ba0ab076dd1e95d6, type: 3}
       propertyPath: m_Name
       value: Player
@@ -6592,6 +6824,220 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1b3d6ca30c70c494ba0ab076dd1e95d6, type: 3}
+<<<<<<< Updated upstream:ProyectJOJO2D/Assets/Scenes/SceneGame1.unity
+=======
+--- !u!1 &2020304834063707722 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5432604955291685910, guid: 1b3d6ca30c70c494ba0ab076dd1e95d6, type: 3}
+  m_PrefabInstance: {fileID: 2020304834063707721}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4179729424248616271
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 790854734421745192, guid: ae9f9ca4d5cbdbd439abd5f3aed767e6, type: 3}
+      propertyPath: m_Name
+      value: Main Camera
+      objectReference: {fileID: 0}
+    - target: {fileID: 3094101994822945665, guid: ae9f9ca4d5cbdbd439abd5f3aed767e6, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 2020304834063707722}
+    - target: {fileID: 4106524610610336457, guid: ae9f9ca4d5cbdbd439abd5f3aed767e6, type: 3}
+      propertyPath: orthographic size
+      value: 0.7959243
+      objectReference: {fileID: 0}
+    - target: {fileID: 7717634746438838152, guid: ae9f9ca4d5cbdbd439abd5f3aed767e6, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.0354
+      objectReference: {fileID: 0}
+    - target: {fileID: 7717634746438838152, guid: ae9f9ca4d5cbdbd439abd5f3aed767e6, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.0354
+      objectReference: {fileID: 0}
+    - target: {fileID: 7717634746438838152, guid: ae9f9ca4d5cbdbd439abd5f3aed767e6, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.0354
+      objectReference: {fileID: 0}
+    - target: {fileID: 7717634746438838152, guid: ae9f9ca4d5cbdbd439abd5f3aed767e6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 7717634746438838152, guid: ae9f9ca4d5cbdbd439abd5f3aed767e6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 7717634746438838152, guid: ae9f9ca4d5cbdbd439abd5f3aed767e6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7717634746438838152, guid: ae9f9ca4d5cbdbd439abd5f3aed767e6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7717634746438838152, guid: ae9f9ca4d5cbdbd439abd5f3aed767e6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7717634746438838152, guid: ae9f9ca4d5cbdbd439abd5f3aed767e6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7717634746438838152, guid: ae9f9ca4d5cbdbd439abd5f3aed767e6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7717634746438838152, guid: ae9f9ca4d5cbdbd439abd5f3aed767e6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7717634746438838152, guid: ae9f9ca4d5cbdbd439abd5f3aed767e6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7717634746438838152, guid: ae9f9ca4d5cbdbd439abd5f3aed767e6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ae9f9ca4d5cbdbd439abd5f3aed767e6, type: 3}
+--- !u!1001 &5575701277423957018
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3326565780411141896, guid: e9782fcb27367934ab4e54c31f50cd9e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 3326565780411141896, guid: e9782fcb27367934ab4e54c31f50cd9e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.657
+      objectReference: {fileID: 0}
+    - target: {fileID: 3326565780411141896, guid: e9782fcb27367934ab4e54c31f50cd9e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3326565780411141896, guid: e9782fcb27367934ab4e54c31f50cd9e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3326565780411141896, guid: e9782fcb27367934ab4e54c31f50cd9e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3326565780411141896, guid: e9782fcb27367934ab4e54c31f50cd9e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3326565780411141896, guid: e9782fcb27367934ab4e54c31f50cd9e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3326565780411141896, guid: e9782fcb27367934ab4e54c31f50cd9e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3326565780411141896, guid: e9782fcb27367934ab4e54c31f50cd9e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3326565780411141896, guid: e9782fcb27367934ab4e54c31f50cd9e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6170476494640851326, guid: e9782fcb27367934ab4e54c31f50cd9e, type: 3}
+      propertyPath: m_Name
+      value: SpeedBuff
+      objectReference: {fileID: 0}
+    - target: {fileID: 6170476494640851326, guid: e9782fcb27367934ab4e54c31f50cd9e, type: 3}
+      propertyPath: m_TagString
+      value: SpeedBuff
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6170476494640851326, guid: e9782fcb27367934ab4e54c31f50cd9e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1305312787}
+  m_SourcePrefab: {fileID: 100100000, guid: e9782fcb27367934ab4e54c31f50cd9e, type: 3}
+--- !u!1001 &5710944771950862345
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4891196900440326561, guid: 7960cca40f9c2b246b762298c2451254, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 4891196900440326561, guid: 7960cca40f9c2b246b762298c2451254, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 7653946535076586420, guid: 7960cca40f9c2b246b762298c2451254, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.208811
+      objectReference: {fileID: 0}
+    - target: {fileID: 7653946535076586420, guid: 7960cca40f9c2b246b762298c2451254, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.1514524
+      objectReference: {fileID: 0}
+    - target: {fileID: 7653946535076586420, guid: 7960cca40f9c2b246b762298c2451254, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -9.90177
+      objectReference: {fileID: 0}
+    - target: {fileID: 7653946535076586420, guid: 7960cca40f9c2b246b762298c2451254, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7653946535076586420, guid: 7960cca40f9c2b246b762298c2451254, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7653946535076586420, guid: 7960cca40f9c2b246b762298c2451254, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7653946535076586420, guid: 7960cca40f9c2b246b762298c2451254, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7653946535076586420, guid: 7960cca40f9c2b246b762298c2451254, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7653946535076586420, guid: 7960cca40f9c2b246b762298c2451254, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7653946535076586420, guid: 7960cca40f9c2b246b762298c2451254, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8670335774994764142, guid: 7960cca40f9c2b246b762298c2451254, type: 3}
+      propertyPath: m_Name
+      value: ObjectsRecollects
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7960cca40f9c2b246b762298c2451254, type: 3}
+>>>>>>> Stashed changes:ProyectJOJO2D/Assets/Scenes/TestEscena.unity
 --- !u!1001 &6631795447483803662
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6716,7 +7162,11 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 7090014245815033494, guid: 10875310e4242fc49a1e86a0cf2f4121, type: 3}
   m_PrefabInstance: {fileID: 6631795447483803662}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:ProyectJOJO2D/Assets/Scenes/SceneGame1.unity
 --- !u!1001 &8036883502619466691
+=======
+--- !u!1001 &6739584914723559794
+>>>>>>> Stashed changes:ProyectJOJO2D/Assets/Scenes/TestEscena.unity
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -6724,6 +7174,7 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< Updated upstream:ProyectJOJO2D/Assets/Scenes/SceneGame1.unity
     - target: {fileID: 2013495918646950865, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
       propertyPath: m_Interpolate
       value: 0
@@ -6823,12 +7274,65 @@ PrefabInstance:
     - target: {fileID: 8617937966588379043, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
       propertyPath: m_LocalPosition.y
       value: -0.003
+=======
+    - target: {fileID: 2446062049522684796, guid: 18797cd7983a1f641a394016380d8800, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.276
+      objectReference: {fileID: 0}
+    - target: {fileID: 2446062049522684796, guid: 18797cd7983a1f641a394016380d8800, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.731
+      objectReference: {fileID: 0}
+    - target: {fileID: 2446062049522684796, guid: 18797cd7983a1f641a394016380d8800, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2446062049522684796, guid: 18797cd7983a1f641a394016380d8800, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2446062049522684796, guid: 18797cd7983a1f641a394016380d8800, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2446062049522684796, guid: 18797cd7983a1f641a394016380d8800, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2446062049522684796, guid: 18797cd7983a1f641a394016380d8800, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2446062049522684796, guid: 18797cd7983a1f641a394016380d8800, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2446062049522684796, guid: 18797cd7983a1f641a394016380d8800, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2446062049522684796, guid: 18797cd7983a1f641a394016380d8800, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7728352056763795734, guid: 18797cd7983a1f641a394016380d8800, type: 3}
+      propertyPath: m_Name
+      value: Potion Red_0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8328906455437542327, guid: 18797cd7983a1f641a394016380d8800, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+>>>>>>> Stashed changes:ProyectJOJO2D/Assets/Scenes/TestEscena.unity
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
+<<<<<<< Updated upstream:ProyectJOJO2D/Assets/Scenes/SceneGame1.unity
   m_SourcePrefab: {fileID: 100100000, guid: 3959dae1e033d1c4b9ba5645e875a249, type: 3}
+=======
+  m_SourcePrefab: {fileID: 100100000, guid: 18797cd7983a1f641a394016380d8800, type: 3}
+>>>>>>> Stashed changes:ProyectJOJO2D/Assets/Scenes/TestEscena.unity
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -6841,8 +7345,8 @@ SceneRoots:
   - {fileID: 1865085633}
   - {fileID: 1477628735}
   - {fileID: 2029063597}
-  - {fileID: 2049058887}
   - {fileID: 1681127910}
+<<<<<<< Updated upstream:ProyectJOJO2D/Assets/Scenes/SceneGame1.unity
 <<<<<<< Updated upstream
   - {fileID: 1280109154}
   - {fileID: 2055449057}
@@ -6854,3 +7358,9 @@ SceneRoots:
   - {fileID: 8036883502619466691}
   - {fileID: 487799919}
 >>>>>>> Stashed changes
+=======
+  - {fileID: 1589594381}
+  - {fileID: 113975912}
+  - {fileID: 5575701277423957018}
+  - {fileID: 6739584914723559794}
+>>>>>>> Stashed changes:ProyectJOJO2D/Assets/Scenes/TestEscena.unity
