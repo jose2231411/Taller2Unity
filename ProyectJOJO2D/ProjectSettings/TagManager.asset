@@ -6,11 +6,13 @@ TagManager:
   tags:
   - GoldKey
   - AppleTag
+  - Bullet
+  - SpeedBuff
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - GroundLayer
   - Water
   - UI
   - 

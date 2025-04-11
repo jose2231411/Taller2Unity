@@ -6,7 +6,7 @@ public class GameControllerScene2 : MonoBehaviour
 {
     [SerializeField]
     private TextMeshPro txtGreenApple2;
-    private ObjectRecollected goldKey;
+    public GameObject gkEY;
     private GameObject panel;
     // Start is called before the first frame update
     void Start()
@@ -31,7 +31,7 @@ public class GameControllerScene2 : MonoBehaviour
     {
         if (GameManager.Instance.AppleGreenCount == 25)
         {
-
+            gkEY.SetActive(true);
         }
     }
 }
