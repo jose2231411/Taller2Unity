@@ -13,6 +13,16 @@ public class LoadScenes : MonoBehaviour
     void Start()
     {
         //ObjectsRecollects.SetActive(false);
+        timer timerComponent = GetComponent<timer>();
+        if (timerComponent != null)
+        {
+            List<float> timeList = new List<float> { timerComponent.time };
+            Debug.Log("Time added: " + timerComponent.time);
+        }
+        else
+        {
+            Debug.LogError("time in this dont exist");
+        }
     }
 
     // Update is called once per frame
